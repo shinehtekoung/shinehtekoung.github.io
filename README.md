@@ -1,1 +1,0 @@
-# shinehtekoung.github.io
