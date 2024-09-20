@@ -193,6 +193,9 @@ button:active{
     margin: 30px auto;
     text-align: center;
 }
+
+.box{ align: center;}
+
 .card{
     height: 365px;
     width: 335px;
