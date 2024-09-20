@@ -184,6 +184,7 @@ button:active{
     background: #101010;
     width: 100%;
     padding: 100px 0px;
+    align: center;
 }
 .title h2{
     color: white;
